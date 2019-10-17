@@ -1,3 +1,7 @@
 <3 Exceed Team one love
 
+function boroda = () => {
+    return "hello"
+}
+
 HELLO MITYA
